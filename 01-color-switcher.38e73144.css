@@ -1,0 +1,2 @@
+body{text-align:center;height:200vh;font-family:sans-serif}p{text-align:left}button{color:#fff;cursor:pointer;background-color:#52d263;border:none;border-radius:15px;margin-left:10px;padding:10px 20px;font-size:40px}button[data-stop]{background-color:#d65c5c}button:disabled{cursor:not-allowed;background-color:#c1c1c1}
+/*# sourceMappingURL=01-color-switcher.38e73144.css.map */
